@@ -1,5 +1,7 @@
 ---
 layout: wide
+title: Find Motorcycle Training Courses & License Programs Near You
+description: Compare motorcycle training courses and licensing programs. Find MSF-certified schools, beginner courses, and advanced rider training in your area.
 ---
 
 <table style="width:100%; height:150px;">
