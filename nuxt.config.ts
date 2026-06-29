@@ -56,7 +56,7 @@ export default defineNuxtConfig({
     },
   },
   site: {
-    url: "filtersfound.com",
+    url: "https://motolicense.com",
   },
   compatibilityDate: "2024-09-20",
 });

@@ -12,7 +12,7 @@ export default defineAppConfig({
     // url is necessary for correct function of seo module.
     name: "Motorcycle Training Directory",
     description: "Directory of Motorcycle Training",
-    url: "https://MotoLicense.com",
+    url: "https://motolicense.com",
     favicon: {
       image: "",
       emoji: "",
@@ -90,6 +90,7 @@ export default defineAppConfig({
       colorModeSelector: true,
       links: [
         { name: "Directory", to: "/" },
+        { name: "Guides", to: "/guides" },
         { name: "Info", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
